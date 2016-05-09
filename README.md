@@ -7,6 +7,10 @@ layout managers and themes. Themes have complete control over the
 rendering process by providing "UIs" for specific component types that 
 handle rendering components of their respective type.
 
+Creator
+--------
+DarkStorm652 
+
 Libraries
 ---------
 
