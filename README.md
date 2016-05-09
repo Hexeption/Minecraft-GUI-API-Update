@@ -9,9 +9,7 @@ handle rendering components of their respective type.
 
 Creator
 --------
-DarkStorm652 
-
-Libraries
+[https://github.com/DarkStorm652/Minecraft-GUI-API]: DarkStorm652
 ---------
 
 The only library currently required by the project is Slick2D, which can
