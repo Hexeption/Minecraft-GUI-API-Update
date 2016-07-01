@@ -1,4 +1,4 @@
-Minecraft GUI API (1.9.x) Update
+Minecraft GUI API (1.9.x & 1.10) Update
 =================
 
 Provides a toolkit for creating widgets through Minecraft. Users can 
